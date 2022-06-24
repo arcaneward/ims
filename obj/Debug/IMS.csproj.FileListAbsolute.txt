@@ -1,0 +1,26 @@
+C:\Users\https\OneDrive\Desktop\InventoryManagement\bin\Debug\IMS.exe.config
+C:\Users\https\OneDrive\Desktop\InventoryManagement\bin\Debug\IMS.exe
+C:\Users\https\OneDrive\Desktop\InventoryManagement\bin\Debug\IMS.pdb
+C:\Users\https\OneDrive\Desktop\InventoryManagement\obj\Debug\IMS.csproj.AssemblyReference.cache
+C:\Users\https\OneDrive\Desktop\InventoryManagement\obj\Debug\IMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\https\OneDrive\Desktop\InventoryManagement\obj\Debug\IMS.MainScreen.resources
+C:\Users\https\OneDrive\Desktop\InventoryManagement\obj\Debug\IMS.Forms.AddModPart.resources
+C:\Users\https\OneDrive\Desktop\InventoryManagement\obj\Debug\IMS.Forms.AddModProduct.resources
+C:\Users\https\OneDrive\Desktop\InventoryManagement\obj\Debug\InventorySoftware.Properties.Resources.resources
+C:\Users\https\OneDrive\Desktop\InventoryManagement\obj\Debug\IMS.csproj.GenerateResource.cache
+C:\Users\https\OneDrive\Desktop\InventoryManagement\obj\Debug\IMS.csproj.CoreCompileInputs.cache
+C:\Users\https\OneDrive\Desktop\InventoryManagement\obj\Debug\IMS.exe
+C:\Users\https\OneDrive\Desktop\InventoryManagement\obj\Debug\IMS.pdb
+C:\Users\https\OneDrive\Desktop\New folder\InventoryManagement\bin\Debug\IMS.exe.config
+C:\Users\https\OneDrive\Desktop\New folder\InventoryManagement\bin\Debug\IMS.exe
+C:\Users\https\OneDrive\Desktop\New folder\InventoryManagement\bin\Debug\IMS.pdb
+C:\Users\https\OneDrive\Desktop\New folder\InventoryManagement\obj\Debug\IMS.csproj.AssemblyReference.cache
+C:\Users\https\OneDrive\Desktop\New folder\InventoryManagement\obj\Debug\IMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\https\OneDrive\Desktop\New folder\InventoryManagement\obj\Debug\IMS.MainScreen.resources
+C:\Users\https\OneDrive\Desktop\New folder\InventoryManagement\obj\Debug\IMS.Forms.AddModPart.resources
+C:\Users\https\OneDrive\Desktop\New folder\InventoryManagement\obj\Debug\IMS.Forms.AddModProduct.resources
+C:\Users\https\OneDrive\Desktop\New folder\InventoryManagement\obj\Debug\InventorySoftware.Properties.Resources.resources
+C:\Users\https\OneDrive\Desktop\New folder\InventoryManagement\obj\Debug\IMS.csproj.GenerateResource.cache
+C:\Users\https\OneDrive\Desktop\New folder\InventoryManagement\obj\Debug\IMS.csproj.CoreCompileInputs.cache
+C:\Users\https\OneDrive\Desktop\New folder\InventoryManagement\obj\Debug\IMS.exe
+C:\Users\https\OneDrive\Desktop\New folder\InventoryManagement\obj\Debug\IMS.pdb
